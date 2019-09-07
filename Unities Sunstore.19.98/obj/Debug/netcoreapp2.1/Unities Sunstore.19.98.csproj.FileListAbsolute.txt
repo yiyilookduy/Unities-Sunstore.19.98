@@ -1,0 +1,11 @@
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\bin\Debug\netcoreapp2.1\Unities Sunstore.19.98.deps.json
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\bin\Debug\netcoreapp2.1\Unities Sunstore.19.98.runtimeconfig.json
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\bin\Debug\netcoreapp2.1\Unities Sunstore.19.98.runtimeconfig.dev.json
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\bin\Debug\netcoreapp2.1\Unities Sunstore.19.98.dll
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\bin\Debug\netcoreapp2.1\Unities Sunstore.19.98.pdb
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\obj\Debug\netcoreapp2.1\Unities Sunstore.19.98.csprojAssemblyReference.cache
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\obj\Debug\netcoreapp2.1\Unities Sunstore.19.98.csproj.CoreCompileInputs.cache
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\obj\Debug\netcoreapp2.1\Unities Sunstore.19.98.AssemblyInfoInputs.cache
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\obj\Debug\netcoreapp2.1\Unities Sunstore.19.98.AssemblyInfo.cs
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\obj\Debug\netcoreapp2.1\Unities Sunstore.19.98.dll
+D:\Programming\Github\Unities-Sunstore.19.98\Unities Sunstore.19.98\obj\Debug\netcoreapp2.1\Unities Sunstore.19.98.pdb

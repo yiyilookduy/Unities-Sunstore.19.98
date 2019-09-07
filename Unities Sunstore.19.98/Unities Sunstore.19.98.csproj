@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Unities_Sunstore._19._98</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="packages\Microsoft.Azure.CognitiveServices.Search.ImageSearch.1.2.0\lib\net452\" />
+    <Folder Include="packages\Microsoft.Azure.CognitiveServices.Search.ImageSearch.1.2.0\lib\netstandard1.4\" />
+    <Folder Include="packages\Microsoft.Rest.ClientRuntime.2.3.10\lib\net452\" />
+    <Folder Include="packages\Microsoft.Rest.ClientRuntime.2.3.10\lib\netstandard1.4\" />
+    <Folder Include="packages\Microsoft.Rest.ClientRuntime.Azure.3.3.10\lib\net452\" />
+    <Folder Include="packages\Microsoft.Rest.ClientRuntime.Azure.3.3.10\lib\netstandard1.4\" />
+    <Folder Include="packages\Newtonsoft.Json.6.0.8\lib\net20\" />
+    <Folder Include="packages\Newtonsoft.Json.6.0.8\lib\net35\" />
+    <Folder Include="packages\Newtonsoft.Json.6.0.8\lib\net40\" />
+    <Folder Include="packages\Newtonsoft.Json.6.0.8\lib\net45\" />
+    <Folder Include="packages\Newtonsoft.Json.6.0.8\lib\netcore45\" />
+    <Folder Include="packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\" />
+    <Folder Include="packages\Newtonsoft.Json.6.0.8\lib\portable-net45+wp80+win8+wpa81+aspnetcore50\" />
+    <Folder Include="packages\Newtonsoft.Json.6.0.8\tools\" />
+  </ItemGroup>
+
+</Project>
